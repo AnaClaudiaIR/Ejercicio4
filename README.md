@@ -1,0 +1,1 @@
+Botones colocados de forma vertical u horizontal en JavaFX.
